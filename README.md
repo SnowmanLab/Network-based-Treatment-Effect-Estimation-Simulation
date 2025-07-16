@@ -1,7 +1,7 @@
 # Network-based-Treatment-Effect-Estimation-Simulation
 
 본 프로젝트는 네트워크 상호작용이 존재하는 환경에서의 인과효과 추정 시, 전통적인 추정량들과 네트워크 정보를 활용한 추정량(netAIPW)의 성능을 비교하는 시뮬레이션입니다.  
-논문 ["Treatment Effect Estimation with Observational Network Data using Machine Learning"](https://arxiv.org/abs/2201.13268) 를 기반으로 구현되었습니다.
+논문 ["Treatment Effect Estimation with Observational Network Data using Machine Learning"](https://arxiv.org/abs/2206.14591) 를 기반으로 구현되었습니다.
 
 ## 🔍 Overview
 
